@@ -5,4 +5,4 @@ arrow==0.4.4
 isodate==0.5.1
 pymacaroons==0.5.6
 hiredis==0.1.5
-redis==2.10.3
+redis==4.4.4
